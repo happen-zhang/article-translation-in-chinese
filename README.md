@@ -6,4 +6,4 @@
 
 ## 文章列表 ##
 
-
+* [Ember路由生命周期](https://github.com/happen-zhang/article-translation-in-chinese/blob/master/frontend/Ember.Router%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)  2014-08-13
